@@ -1,2 +1,2 @@
-require './Numerology'
+require './numerology'
 run Sinatra::Application
